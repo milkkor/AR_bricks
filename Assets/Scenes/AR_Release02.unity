@@ -8301,7 +8301,7 @@ MonoBehaviour:
         customNames:
         - 
         actionEnabled: 01
-        actionIsOpen: 00
+        actionIsOpen: 01
         actionStartIndex: 00000000
         actionHashCodes: 60532301
         unityObjectParams: []
@@ -8624,7 +8624,7 @@ MonoBehaviour:
         - 
         - 
         actionEnabled: 0101
-        actionIsOpen: 0001
+        actionIsOpen: 0101
         actionStartIndex: 0000000012000000
         actionHashCodes: d3bd7b05a4c8bf00
         unityObjectParams: []

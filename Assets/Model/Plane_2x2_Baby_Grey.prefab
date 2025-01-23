@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 1635244715416474984}
   m_Layer: 3
   m_Name: Plane_2x2_Baby_Grey
-  m_TagString: dropzone
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
